@@ -1,0 +1,58 @@
+.container {
+  width: 95vw;
+  margin: auto;
+}
+table {
+    margin-top: 50px;
+    empty-cells: hide;
+    text-transform: capitalize;
+}
+
+td {
+    width: 10px;
+    padding: 2px 30px;
+    font-size: 1.5vw;
+
+    font-weight: bolder;
+  border: 2px solid black;
+}
+
+sup {
+     top: 2px;
+    font-size: 0.9vw;
+    margin-left: 11px;
+    position: relative;
+}
+.orangeBox{
+    color: green;
+    background-color: #FF9966;
+}
+.lightTheme{
+    color: green;
+    background-color: #E6E6FA
+}
+.yelloes{
+    background-color: #C7980F;
+}
+.lightYellow{
+    color: green;
+    background-color: #EBDCA9;
+}
+.purple{
+    background-color: #DEA0DD;
+}
+.blue{
+    background-color: #8FC7FF;
+}
+.lightGreen{
+    background-color: #CDEB8B;
+}
+.lightGold{
+    background-color: #FFF38E;
+}
+.lightPink{
+    background-color: #FCEFF0;
+}
+.fontColor{
+    color: brown;
+}
